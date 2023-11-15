@@ -1,0 +1,3 @@
+/Users/denistopor/raspberry_3d_visualizer/Detection/CMakeFiles/trafic_analyzer.dir
+/Users/denistopor/raspberry_3d_visualizer/Detection/CMakeFiles/edit_cache.dir
+/Users/denistopor/raspberry_3d_visualizer/Detection/CMakeFiles/rebuild_cache.dir
