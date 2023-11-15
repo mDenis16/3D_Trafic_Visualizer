@@ -148,7 +148,7 @@ int main(int argc, char **argv)
         }
     }
 
-    std::cout << "Total frames: " << total_frames << "\n";
+    std::cout << "Total frsames: " << total_frames << "\n";
 
     return 0;
 }
